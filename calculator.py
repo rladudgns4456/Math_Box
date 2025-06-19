@@ -1,4 +1,6 @@
-def add(a, b);
+def add(a, b):
       return a+b
-def suvtract(a, b);
+def suvtract(a, b):
       return a-b
+def muluply(a, b):
+      return a*b
